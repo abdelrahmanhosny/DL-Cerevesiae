@@ -33,11 +33,12 @@ for chromosome_number in range(1, 17):
         replication_origins[chromosome_number].append(replication_origin)
 
 # now we have all chromosomes loaded and their replication origins
+# prepared the input to be fed into the models
 for i in range(1, 17):
     chromosome = chromosomes[i].lower()
     for oric in replication_origins[i]:
         chromosome = chromosome.replace(oric.lower(), oric.upper())
-    input_file = os.path.join(preprocessed_data_path, 'chr%02d.text'%i)
+    input_file = os.path.join(preprocessed_data_path, 'chr%02d-input.text'%i)
     with open(input_file, 'w') as f:
         parsed_chromosome = ''
         for c in chromosome:
