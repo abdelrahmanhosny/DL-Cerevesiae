@@ -12,7 +12,7 @@ from model import Model
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument('--save_dir', type=str, default='save',
+    parser.add_argument('--save_dir', type=str, default='models',
                        help='model directory to store checkpointed models')
     parser.add_argument('-n', type=int, default=500,
                        help='number of characters to sample')

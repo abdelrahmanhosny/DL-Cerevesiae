@@ -40,7 +40,7 @@ for chromosome_number in range(1, 17):
 
 title = "# Saccharomayces Ceravesiae genome length is " + str(genome_length) + "\n\n"
 
-with open('statistics.md', 'w') as f:
+with open('README.md', 'w') as f:
     f.write(title)
     f.write(stats)
     print "Stats print to file successfully"

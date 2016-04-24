@@ -38,7 +38,7 @@ for i in range(1, 17):
     chromosome = chromosomes[i].lower()
     for oric in replication_origins[i]:
         chromosome = chromosome.replace(oric.lower(), oric.upper())
-    input_file = os.path.join(preprocessed_data_path, 'chr%02d-input.text'%i)
+    input_file = os.path.join(preprocessed_data_path, 'chr%02d-input.txt'%i)
     with open(input_file, 'w') as f:
         parsed_chromosome = ''
         for c in chromosome:
