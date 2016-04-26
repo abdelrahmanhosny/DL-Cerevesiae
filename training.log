@@ -1,0 +1,38 @@
+Training on /Users/abdelrahman/Projects/lstm-cerevesiae/data/Preprocessed/chr01-input.txt
+model=LSTM, Hidden state size=128, Number of layers=2
+Training finished after 65 minutes and 34 seconds.
+model=LSTM, Hidden state size=256, Number of layers=3
+Training finished after 47 minutes and 17 seconds.
+model=LSTM, Hidden state size=512, Number of layers=4
+Training finished after 53 minutes and 44 seconds.
+model=RNN, Hidden state size=128, Number of layers=2
+Training finished after 45 minutes and 54 seconds.
+model=RNN, Hidden state size=256, Number of layers=3
+Training finished after 47 minutes and 38 seconds.
+model=RNN, Hidden state size=512, Number of layers=4
+Training finished after 46 minutes and 56 seconds.
+model=GRU, Hidden state size=128, Number of layers=2
+Training finished after 47 minutes and 23 seconds.
+model=GRU, Hidden state size=256, Number of layers=3
+Training finished after 47 minutes and 57 seconds.
+model=GRU, Hidden state size=512, Number of layers=4
+Training finished after 46 minutes and 29 seconds.
+
+Training on /Users/abdelrahman/Projects/lstm-cerevesiae/data/Preprocessed/chr02-input.txt
+model=LSTM, Hidden state size=128, Number of layers=2
+Training finished after 159 minutes and 39 seconds.
+model=LSTM, Hidden state size=256, Number of layers=3
+Training finished after 162 minutes and 43 seconds.
+model=LSTM, Hidden state size=512, Number of layers=4
+Training finished after 161 minutes and 42 seconds.
+model=RNN, Hidden state size=128, Number of layers=2
+Training finished after 162 minutes and 3 seconds.
+model=RNN, Hidden state size=256, Number of layers=3
+Training finished after 163 minutes and 11 seconds.
+model=RNN, Hidden state size=512, Number of layers=4
+Training finished after 161 minutes and 24 seconds.
+model=GRU, Hidden state size=128, Number of layers=2
+Training finished after 241 minutes and 18 seconds.
+model=GRU, Hidden state size=256, Number of layers=3
+Training finished after 165 minutes and 45 seconds.
+model=GRU, Hidden state size=512, Number of layers=4
