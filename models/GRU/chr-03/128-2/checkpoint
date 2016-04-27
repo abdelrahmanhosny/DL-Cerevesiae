@@ -1,0 +1,6 @@
+model_checkpoint_path: "/Users/abdelrahman/Projects/lstm-cerevesiae/models/GRU/chr-03/128-2/model.ckpt-12000"
+all_model_checkpoint_paths: "/Users/abdelrahman/Projects/lstm-cerevesiae/models/GRU/chr-03/128-2/model.ckpt-8000"
+all_model_checkpoint_paths: "/Users/abdelrahman/Projects/lstm-cerevesiae/models/GRU/chr-03/128-2/model.ckpt-9000"
+all_model_checkpoint_paths: "/Users/abdelrahman/Projects/lstm-cerevesiae/models/GRU/chr-03/128-2/model.ckpt-10000"
+all_model_checkpoint_paths: "/Users/abdelrahman/Projects/lstm-cerevesiae/models/GRU/chr-03/128-2/model.ckpt-11000"
+all_model_checkpoint_paths: "/Users/abdelrahman/Projects/lstm-cerevesiae/models/GRU/chr-03/128-2/model.ckpt-12000"

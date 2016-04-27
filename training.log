@@ -40,3 +40,23 @@ Training finished after 210 minutes and 53 seconds.
 
 Training on /Users/abdelrahman/Projects/lstm-cerevesiae/data/Preprocessed/chr03-input.txt
 model=LSTM, Hidden state size=128, Number of layers=2
+Training finished after 587 minutes and 40 seconds.
+model=LSTM, Hidden state size=256, Number of layers=3
+Training finished after 61 minutes and 37 seconds.
+model=LSTM, Hidden state size=512, Number of layers=4
+Training finished after 62 minutes and 15 seconds.
+model=RNN, Hidden state size=128, Number of layers=2
+Training finished after 62 minutes and 33 seconds.
+model=RNN, Hidden state size=256, Number of layers=3
+Training finished after 142 minutes and 22 seconds.
+model=RNN, Hidden state size=512, Number of layers=4
+Training finished after 85 minutes and 47 seconds.
+model=GRU, Hidden state size=128, Number of layers=2
+Training finished after 101 minutes and 36 seconds.
+model=GRU, Hidden state size=256, Number of layers=3
+Training finished after 105 minutes and 38 seconds.
+model=GRU, Hidden state size=512, Number of layers=4
+Training finished after 77 minutes and 18 seconds.
+
+Training on /Users/abdelrahman/Projects/lstm-cerevesiae/data/Preprocessed/chr04-input.txt
+model=LSTM, Hidden state size=128, Number of layers=2
