@@ -24,7 +24,7 @@ def hamming_distance(genome1, genome2):
             hammingdistance += 1
     return hammingdistance
 
-for chromosome_number in range(1, 2):
+for chromosome_number in range(1, 4):
     chromosome = preprocessed_data_path + '/chr%02d-input.txt'%chromosome_number
     confirmed_origins = data_path + '/chr%02d-confirmed.fsa'%chromosome_number
 
