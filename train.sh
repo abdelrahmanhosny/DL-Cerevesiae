@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 # A script to train all models on all chromosomes with all variations
 # WARNING: this script will suck your machine resources for a long time.
 

@@ -57,6 +57,3 @@ model=GRU, Hidden state size=256, Number of layers=3
 Training finished after 105 minutes and 38 seconds.
 model=GRU, Hidden state size=512, Number of layers=4
 Training finished after 77 minutes and 18 seconds.
-
-Training on /Users/abdelrahman/Projects/lstm-cerevesiae/data/Preprocessed/chr04-input.txt
-model=LSTM, Hidden state size=128, Number of layers=2
