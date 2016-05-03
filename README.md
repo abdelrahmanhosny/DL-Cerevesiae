@@ -9,7 +9,7 @@ Whole Genome Sequence: [Saccharomyces Genome Database](http://www.yeastgenome.or
 Replication Origins: [OriDB](http://cerevisiae.oridb.org/)
 
 ## Current Progress
-The project is still under heavy development.
+Check [project page](http://abdelrahmanhosny.github.io/DL-Cerevesiae/)
 
 ## Contributors
 [Abdelrahman Hosny](http://www.abdelrahmanhosny.me), [Anthony Parziale](mailto:anthony.parziale@uconn.edu)
